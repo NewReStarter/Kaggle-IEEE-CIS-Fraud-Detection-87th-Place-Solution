@@ -2,4 +2,7 @@
 
 Final rank **87th** place (both public and private leaderboard) among 6268 teams
 
-This repository contains most of my tracks of thoughts during this competition. I build this repository for the purpose of demonstrating how I think in a ML competition. Pipelines and wheels will be omitted in this repo.(Maybe I will create a repo for them in the future). To see further explanation and details, please go to my blog at https://newrestarter.github.io/
+This repository contains most of my tracks of thoughts during this competition. I build this repository for the purpose of demonstrating how I think in a ML competition. Pipelines and wheels will be omitted in this repo.(Maybe I will create a repo for them in the future). 
+
+To see further explanation and details, please go to my blog at https://newrestarter.github.io/. Blogs of this series will be updated on weekly basis and are scheduled to finished in mid November.
+
