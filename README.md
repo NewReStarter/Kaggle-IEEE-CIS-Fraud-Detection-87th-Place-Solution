@@ -1,0 +1,2 @@
+# Kaggle-IEEE-CIS-Fraud-Detection-87th-Solution
+This repository contains most of my tracks of thoughts during this competition. I build this repository for the purpose of demonstrating how I think in a ML competition. Pipelines and wheels will be omitted in this repo.(Maybe I will create a repo for them in the future). To see the explanation and details, please go to my blog https://newrestarter.github.io/
